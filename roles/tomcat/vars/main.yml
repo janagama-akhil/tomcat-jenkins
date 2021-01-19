@@ -1,0 +1,7 @@
+---
+http_port: 8080
+https_port: 8443
+admin_username: tomcat
+
+
+java_name: java-1.8.0-openjdk-devel
